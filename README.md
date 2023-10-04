@@ -1,5 +1,6 @@
 # WindowsTerminalPacMan
 ![giphy](https://github.com/YousefMostafaFarouk/WindowsTerminalPacMan/assets/129290213/09b27721-e55e-4ab9-be24-e7bbf83d49b9)
+![giphy (1)](https://github.com/YousefMostafaFarouk/WindowsTerminalPacMan/assets/129290213/2ff366cc-2c0e-40b0-8bc4-c7307dd35601)
 
 ## How to Play
 WASD to move.
