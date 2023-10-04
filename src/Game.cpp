@@ -475,7 +475,7 @@ void Game::GameOver()
 	// update high score and print new high score;
 	if (score > highScore)
 	{
-		GetHighScore(score);
+		highScore = GetHighScore(score);
 		std::string highScoreString = "NEW HIGH SCORE = " + number + " !!";
 
 		PrintString(highScoreString, SCREENWIDTH / 2 - playAgainString.size() / 2, yDisplayOffset, FOREGROUND_RED | FOREGROUND_GREEN);
