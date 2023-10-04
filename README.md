@@ -15,6 +15,7 @@ If you simply want to play the game then run the WindowsTerminalPacman.exe file.
 If you want to build it yourself then simply use CMake to build it, if you dont know how then look below for help.
 
 ### How to build using CMake
+First of all you need to install CMake, Afterwards follow the videos below.
 https://www.youtube.com/watch?v=FFXCqKMUZ7Y&t=169s&ab_channel=KeaSigmaDelta for VSCode users.
 https://www.youtube.com/watch?v=dqSR0ts5JdQ&ab_channel=CookiezTheDeveloper  for Visual Studio users.
 https://www.jetbrains.com/help/clion/creating-new-project-from-scratch.html#monorepos for CLion users (Opening a project part).
