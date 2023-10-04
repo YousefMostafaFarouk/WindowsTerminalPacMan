@@ -1,12 +1,12 @@
 # WindowsTerminalPacMan
-![giphy](https://github.com/YousefMostafaFarouk/WindowsTerminalPacMan/assets/129290213/09b27721-e55e-4ab9-be24-e7bbf83d49b9)
-![giphy (1)](https://github.com/YousefMostafaFarouk/WindowsTerminalPacMan/assets/129290213/2ff366cc-2c0e-40b0-8bc4-c7307dd35601)
+![giphy](https://github.com/YousefMostafaFarouk/WindowsTerminalPacMan/assets/129290213/6798aa9d-0237-44aa-85bf-db53a1d06477)  
+![giphy (1)](https://github.com/YousefMostafaFarouk/WindowsTerminalPacMan/assets/129290213/6ba1daf9-a764-4d2c-b660-688edfedc4ea)  
 
 ## How to Play
 WASD to move.  
 Don't let the Ghosts eat you.  
-Eat power ups to give you the ability to eat ghosts.  ![image](https://github.com/YousefMostafaFarouk/WindowsTerminalPacMan/assets/129290213/e4f110e0-b03d-464d-90df-bec9b1b740ca)  
-Eat Cherries to gain extra points  ![image](https://github.com/YousefMostafaFarouk/WindowsTerminalPacMan/assets/129290213/334f1260-c743-4f1f-83e0-ca3603026207)
+Eat power ups to give you the ability to eat ghosts.  ![image](https://github.com/YousefMostafaFarouk/WindowsTerminalPacMan/assets/129290213/36a967b8-145f-4cbe-940e-698d603771c9)  
+Eat Cherries to gain extra points  ![image](https://github.com/YousefMostafaFarouk/WindowsTerminalPacMan/assets/129290213/82e67ccf-3c2d-4310-a183-bc7c1cba783c)
 
 ## How to install
 If you simply want to play the game then run the WindowsTerminalPacman.exe file.
