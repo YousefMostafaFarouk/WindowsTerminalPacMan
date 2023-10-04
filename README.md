@@ -5,7 +5,7 @@
 ## How to Play
 WASD to move.  
 Don't let the Ghosts eat you.  
-Eat power ups to give you the ability to eat ghosts.  ![image](https://github.com/YousefMostafaFarouk/WindowsTerminalPacMan/assets/129290213/e4f110e0-b03d-464d-90df-bec9b1b740ca)
+Eat power ups to give you the ability to eat ghosts.  ![image](https://github.com/YousefMostafaFarouk/WindowsTerminalPacMan/assets/129290213/e4f110e0-b03d-464d-90df-bec9b1b740ca)  
 Eat Cherries to gain extra points  ![image](https://github.com/YousefMostafaFarouk/WindowsTerminalPacMan/assets/129290213/334f1260-c743-4f1f-83e0-ca3603026207)
 
 ## How to install
