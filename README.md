@@ -18,4 +18,4 @@ First of all, you need to install CMake, then follow the videos below:
 -https://www.jetbrains.com/help/clion/creating-new-project-from-scratch.html#open-prj for CLion users (Opening a project part).  
 
 Note:
-The program may not run correctly in CLion and VSCode's terminal, so you will need to manually open the 'cmake-build-debug' folder and run the .exe file.
+The program may not run correctly in CLion and VSCode's terminal, so you will need to manually open the 'cmake-build-debug' folder and run the .exe file. 
