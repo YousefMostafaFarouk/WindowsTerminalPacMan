@@ -8,7 +8,7 @@ Don't let the Ghosts eat you.
 Eat power ups to give you the ability to eat ghosts.  ![image](https://github.com/YousefMostafaFarouk/WindowsTerminalPacMan/assets/129290213/82e67ccf-3c2d-4310-a183-bc7c1cba783c)   
 Eat Cherries to gain extra points ![image](https://github.com/YousefMostafaFarouk/WindowsTerminalPacMan/assets/129290213/36a967b8-145f-4cbe-940e-698d603771c9)    
 Eat all the white points to win the game and continue to the next level with your old score!  
-Your goal is yo get the highest score you can.  
+Your goal is to get the highest score you can.  
  
 ## How to install
 If you simply want to play the game then run the WindowsTerminalPacman.exe file.
