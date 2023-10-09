@@ -1,4 +1,7 @@
 #include "Algorithm.h"
+#include <queue>
+#include <algorithm>
+#include <cmath>
 
 Direction Algorithm::BaseGoTo(int xStart, int yStart, int xTarget, int yTarget) 
 {
