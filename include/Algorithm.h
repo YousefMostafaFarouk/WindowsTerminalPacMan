@@ -1,6 +1,9 @@
 #pragma once
 #include "Direction.h"
 #include <vector>
+#include <queue>
+#include <algorithm>
+#include <cmath>
 
 class Algorithm
 {
